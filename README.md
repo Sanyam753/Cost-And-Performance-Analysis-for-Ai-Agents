@@ -79,7 +79,9 @@ Contributions are welcome! Please:
 5. Open a pull request
 
 ## Author
+- **Sanyam Sankhala**
 - **Dinesh Kumar**
+- **Aniket Verma**
 - **Arnav Gupta**
 
 ## License
